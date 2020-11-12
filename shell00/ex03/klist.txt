@@ -1,0 +1,5 @@
+Credentials cache: API:212D2A04-FCA8-42D5-B3F1-EDEECD709C5B
+        Principal: bfalcao-@42LISBOA.COM
+
+  Issued                Expires               Principal
+Oct 21 19:28:41 2020  Oct 22 05:28:41 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
